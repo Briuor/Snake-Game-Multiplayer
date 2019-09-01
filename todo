@@ -1,0 +1,4 @@
+###### Criar player com coordenadas x e y, velocidade(quantos pixels anda)  
+##### quando comida é gerada manda evento pra todos os players
+##### quando player movimenta manda coordenada dele pra todos os players
+# quando player entra verifica se vai cair em cima de outro player
