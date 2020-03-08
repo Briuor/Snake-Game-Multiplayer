@@ -11,8 +11,8 @@ npm i
 ```
 
 ## Execute
-You can open two browser tabs to test the multiplayer mode.
 ```sh
 npm start # this command will start the server on port 4000
 # access http://localhost:4000
 ```
+You can access http://localhost:4000 in two browser tabs to test the multiplayer mode.
